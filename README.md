@@ -1,2 +1,5 @@
 # ImageID-Remover
 一个移除图片ImageID和ImageUniqueID的Python程序
+使用方法:
+RemoveImageID.py 需要处理的图片路径
+当没有指定路径的时候会默认Py程序所在的文件夹为运行路径
