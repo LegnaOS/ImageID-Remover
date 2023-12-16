@@ -1,0 +1,2 @@
+# ImageID-Remover
+一个移除图片ImageID和ImageUniqueID的Python程序
